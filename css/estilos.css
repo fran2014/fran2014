@@ -1,0 +1,20 @@
+body
+{
+ background: #646464;
+}
+
+#cabecera
+{
+    color: white;
+    text-align: center;
+    font-family: Georgia;
+    
+    
+}
+
+#container #gif
+{
+    width: 500;
+    display: block;
+    margin: auto;
+}
